@@ -19,7 +19,7 @@
 
 ---
 
-<h1 align="center">Data Science Student & AI/ML Enthusiast 🚀</h1>
+<h1 align="center">Data Science Student & Enthusiast 🚀</h1>
 <h3 align="center">From Coimbatore, India 🇮🇳</h3>
 
 <p align="center">
@@ -50,9 +50,9 @@
 
 - 🥇 **1st Place** - TECHNOFEST Hackathon, Sri Eshwar College (₹1,500 Cash Prize)
 - 🥇 **1st Place** - FRESHATHON Hackathon, Sri Eshwar College  
-- 🌟 **Verified Discord Bot Developer**
+
 - 📊 **300+ Problems Solved** across competitive programming platforms
-- 🎯 **LeetCode Max Contest Rating:** 1,445
+- 🎯 **LeetCode Max Contest Rating:** 1,459
 
 ---
 
